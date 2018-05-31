@@ -1,0 +1,5 @@
+font: Liberation Sans Narrow Bold Condensed, velikost 132
+
+název videa:
+.1 řádek: na linku 350px odshora
+.2 řádky: 1. na linku cca 335px, 2. na linku cca 385px
